@@ -10,7 +10,3 @@ this project was build to classify sofa and bookcase using knn algorithm. please
 2 - other
 
 
-Team:
-Babak habibnejad gohardani 	221069
-Karina Flores 			221068
-Nimas Ratna Sari 		221071
